@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+#biaoti{
+	text-align:right;
+	padding-right:50px;
+}
+.fl{
+	float:left;
+	}
+.f2{
+	float:right;}
+#box{
+	width:1000px;
+	margin:0 auto;
+	
+}
+.t1{
+	background-color:#FFC;
+}
+#zhong{
+
+	}

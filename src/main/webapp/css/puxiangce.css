@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.product_box .add_to_cart{
+    clear: both;
+    width: 165px;
+    height: 28px;
+   
+}

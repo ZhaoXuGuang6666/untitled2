@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #395015;
+    line-height: 20px;	
+	
+}
+
+#fs_main_wrapper{
+    width: 100%;
+    background: url("../image/fs_main.png") repeat-x bottom;
+}
+
+#zuo a{
+	font-size:17px;
+	color:#000;
+	
+	}
+
+.fl{
+	float:left;
+	}
+.f2{
+	float:right;}
+#box{
+	width:1000px;
+	margin:0 auto;
+	
+}
+.t1{
+	background-color:#FFC;
+}
+
+li{
+	display:block;
+	
+	}
+#zhong{
+	
+	font-weight;
+}
+	
